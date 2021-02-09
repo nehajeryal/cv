@@ -1,0 +1,40 @@
+BODY{
+background-color:#dbe2ef;
+font-family:"Monteserrat";
+
+
+}
+h1{
+  color:#5b5b5b;
+  font-family: "Monteserrat";
+
+}
+
+
+img{
+  padding-top:7px;
+}
+h3{
+font-family: "Monteserrat";
+  color:#5b5b5b;
+  margin-left: 5px;
+  padding-left: 10px;
+}
+li{
+  padding-left:10px;
+}
+p{
+  padding-left:10px;
+}
+
+
+
+a{
+  padding-left:10px;
+}
+
+
+form{
+  padding-left:10px;
+  padding-botton:10px;
+}
